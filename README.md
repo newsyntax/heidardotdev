@@ -1,6 +1,6 @@
 <h2 align="center">Web Designer & Developer</h2>
 
-<p align="center">
+<p align="right">
   🎓 Software Engineering Student
   <br />
   💻 MERN Stack Developer
@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nodejs,express,mongodb,git" />
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" />
 </p>
 
 <p align="center">
