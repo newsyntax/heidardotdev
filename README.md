@@ -1,6 +1,6 @@
 <h2 align="center">Web Designer & Developer</h2>
 
-<p align="right">
+<p align="left">
   🎓 Software Engineering Student
   <br />
   💻 MERN Stack Developer
